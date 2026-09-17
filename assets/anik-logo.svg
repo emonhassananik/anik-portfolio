@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00e5ff"/><stop offset=".52" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff3dbb"/></linearGradient></defs>
+<rect width="640" height="180" rx="42" fill="#08101f"/>
+<text x="34" y="122" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="800" fill="url(#g)">Md Emon Hassan Anik</text>
+</svg>
