@@ -1,0 +1,15 @@
+{
+  "name": "Md Emon Hassan Anik",
+  "short_name": "Anik",
+  "start_url": "/anik-portfolio/",
+  "display": "standalone",
+  "theme_color": "#070b14",
+  "background_color": "#050914",
+  "icons": [
+    {
+      "src": "assets/anik-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
